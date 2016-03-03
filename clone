@@ -1,7 +1,0 @@
-git clone --barehttps://github.com/taisel/GameBoy-Online.git
-
-cd GameBoy-Online.git
-git push --mirror https://github.com/taisel/GameBoy-Online.git
-
-cd ..
-rm -rf GameBoy-Online.git
